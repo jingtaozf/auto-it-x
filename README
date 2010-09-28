@@ -1,0 +1,6 @@
+auto-it-x
+======
+
+auto-it-x is a common lisp wrapper of AutoItX.
+currently it only supports lispworks.
+
